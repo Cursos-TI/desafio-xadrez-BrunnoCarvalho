@@ -16,7 +16,7 @@ int main() {
     int i = 0;
     printf("Movimento do Bispo: \n");
     while(i < casasBispo){
-        printf("Cima, Direita\n");
+        printf("Cima Direita\n");
         i++;
     }
 
